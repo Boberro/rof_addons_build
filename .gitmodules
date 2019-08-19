@@ -1,0 +1,3 @@
+[submodule "SwiftPbo"]
+	path = SwiftPbo
+	url = git@github.com:headswe/SwiftPbo.git
